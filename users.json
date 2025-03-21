@@ -1,0 +1,110 @@
+[
+    {
+        "username": "Majda",
+        "email": "lebedmag@cvut.cz",
+        "password": "$2y$10$H54wkdeHxVbgJMAptqkMwuX\/9QiQnEp4SkPH7ScfQ2GAlYOH5eZY2",
+        "role": "admin"
+    },
+    {
+        "username": "\/><script> alert(\"ty blažku\");<\/script>",
+        "email": "ljfdaljf@chojldsjfajf.cz",
+        "password": "$2y$10$NPPEXgGzvE54qSfmtIRstezK6ErKs.aeLGdCQyv52\/4DpmavkMnWG",
+        "role": "admin"
+    },
+    {
+        "username": "ahoj",
+        "email": "ahoj@ahoj.com",
+        "password": "$2y$10$Gra1x9vDX6PN5h\/jbRbrveco0I8Cwfb9Q7HnAP.FAqCv2QLt9mYne",
+        "role": "user"
+    },
+    {
+        "username": "<script>alert(\"aha\");<\/script>",
+        "email": "hvsvjdfyd@f.cz",
+        "password": "$2y$10$xAz69B\/91NE4ol2wqMP.NOqabGR1eeijB.0Nh94g1qu.XR04HLp0O",
+        "role": "user"
+    },
+    {
+        "username": "lugovdar",
+        "email": "m@gmail.com",
+        "password": "$2y$10$wsyLlZT2sZV25C7rd2BD0OGbwFztNkC\/.yEWry9MG3l\/l4DmbGgMW",
+        "role": "user"
+    },
+    {
+        "username": "<script>console.log(\"Hello, world!\");<\/script>",
+        "email": "er@email.com",
+        "password": "$2y$10$RYavhXHdKQhNSDVZCeNJSOJNvyCza8FMZDLHAJq0zXJ1D2gOzUi0e",
+        "role": "user"
+    },
+    {
+        "username": "tululum",
+        "email": "tul@w.com",
+        "password": "$2y$10$NUFW.V91Q.iKyon3gnbwQusfHjses2UacJ\/N8TQ8.2W3k5OeBpcrS",
+        "role": "user"
+    },
+    {
+        "username": "EltonJohn",
+        "email": "afsdfsd",
+        "password": "$2y$10$6GnDIomIfN\/ZaXoat4Nw6uHzY\/xIbYb65O.AC85W3YMHxHfqfGVle",
+        "role": "user"
+    },
+    {
+        "username": "Vojta",
+        "email": "michavo5@cvut.cz",
+        "password": "$2y$10$YAH15zI\/IrA8tFII1B4iWuQyXtduq4At3PmoRLgYURzsywTFu48NS",
+        "role": "user"
+    },
+    {
+        "username": "<h1> test <\/h1>",
+        "email": "j@j.cz",
+        "password": "$2y$10$IidgOy90Ee4iozK3jb6GHeKqikNk4c\/RMWdS3rW0UzXbZsCYOtxFO",
+        "role": "user"
+    },
+    {
+        "username": "user",
+        "email": "user@user.cz",
+        "password": "$2y$10$D9n5zARLdheh\/vyaAfz7BexwdtTPJEoiRTqU4KphQ9haF\/MSEYQ8q",
+        "role": "user"
+    },
+    {
+        "username": "sugardenny",
+        "email": "a@b.cz",
+        "password": "$2y$10$kqEDhcMnhXG\/Yjt4hZ1Pleq62bgN3m8GAOHAI.DCnaNBNgEnXOrvK",
+        "role": "user"
+    },
+    {
+        "username": "abcdefgh",
+        "email": "a@b.cwdadwa",
+        "password": "$2y$10$mUGcHH6oYi6YW.WcffKJ1ej1jv9jsBtkPYikSQjEj9L6j9CeEzg22",
+        "role": "user"
+    },
+    {
+        "username": "John F. Kennedy",
+        "email": "xd@cd.cd",
+        "password": "$2y$10$dhO7NxvqH5U9E4hrZeUMReaHK7ePJ5d725pjh6MjRzxSKqMWQB2Hm",
+        "role": "user"
+    },
+    {
+        "username": "jan",
+        "email": "muj@email.com",
+        "password": "$2y$10$LtRPhEyEsXW5iNz\/QpOPnuK4efPj0HTlP8NpVZiMQiSFx04rZbXDu",
+        "role": "user"
+    },
+    {
+        "username": "Smrad1",
+        "email": "smrad@smrad.cz",
+        "password": "$2y$10$zdYDcor4CIKni3RfgNkNNeHSe9Lq5LvSWcsQ8F67Wq4V90HR1aK8u",
+        "role": "admin"
+    },
+    {
+        "username": "Jarda61",
+        "email": "jarda61@jarda61.cz",
+        "password": "$2y$10$0IZpEEPOIG5RKJSbGgos0.RGhsdBJNa0RpW8uWkc1SYCid4bZ\/5gy",
+        "role": "user"
+    },
+    {
+        "username": "Petr Novotný",
+        "email": "novotny@novotny.cz",
+        "password": "$2y$10$Wf\/2BEpL..NJL\/JqkwUdEuURrKTqWEvhxQSP6mXVbS\/M8IF0IJYue",
+        "role": "user"
+    }
+]
